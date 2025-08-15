@@ -50,7 +50,7 @@ Sem o correto preenchimento do formulário o trabalho não será corrigido.
 	+ Preenchimento do formulário formalizando a entrega do projeto. **Link:** (será informado em novembro)
   + Link do vídeo de apresentação do projeto, com no mínimo de 5 minutos, deve constar no repositório do github. (link do youtube)
   + Atenção: Informar todos os alunos no formulário, conforme exemplo indicado no link.
-* Revisão final do projeto até **05/12/2024**
+* Revisão final do projeto até **05/12/2025**
     
 ## Professores
 Prof.  Daniel Ferreira de Barros Junior. - ([danielf@uni9.pro.br](mailto:danielf@uni9.pro.br))
